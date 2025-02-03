@@ -4,7 +4,7 @@ build:
 
 # The contact details for the production environment are going to be those of the product owner.
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}ae11400a69f59d58190afa90903039e163cdd668213e9833a44cf8f9b014248aaab3a9e0fec58d7c64ed79aa2e560d1d"
